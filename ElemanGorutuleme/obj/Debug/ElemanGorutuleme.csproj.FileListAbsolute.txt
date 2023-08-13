@@ -1,0 +1,10 @@
+C:\Users\tahac\source\repos\ElemanGorutuleme\ElemanGorutuleme\bin\Debug\ElemanGorutuleme.exe.config
+C:\Users\tahac\source\repos\ElemanGorutuleme\ElemanGorutuleme\bin\Debug\ElemanGorutuleme.exe
+C:\Users\tahac\source\repos\ElemanGorutuleme\ElemanGorutuleme\bin\Debug\ElemanGorutuleme.pdb
+C:\Users\tahac\source\repos\ElemanGorutuleme\ElemanGorutuleme\obj\Debug\ElemanGorutuleme.csproj.AssemblyReference.cache
+C:\Users\tahac\source\repos\ElemanGorutuleme\ElemanGorutuleme\obj\Debug\ElemanGorutuleme.Form1.resources
+C:\Users\tahac\source\repos\ElemanGorutuleme\ElemanGorutuleme\obj\Debug\ElemanGorutuleme.Properties.Resources.resources
+C:\Users\tahac\source\repos\ElemanGorutuleme\ElemanGorutuleme\obj\Debug\ElemanGorutuleme.csproj.GenerateResource.cache
+C:\Users\tahac\source\repos\ElemanGorutuleme\ElemanGorutuleme\obj\Debug\ElemanGorutuleme.csproj.CoreCompileInputs.cache
+C:\Users\tahac\source\repos\ElemanGorutuleme\ElemanGorutuleme\obj\Debug\ElemanGorutuleme.exe
+C:\Users\tahac\source\repos\ElemanGorutuleme\ElemanGorutuleme\obj\Debug\ElemanGorutuleme.pdb
